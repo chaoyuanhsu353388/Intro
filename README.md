@@ -1,5 +1,3 @@
-# Chao Yuan Hsu GitHub Bio  
-
 🚀 **Data Analyst | Business Intelligence | Machine Learning**  
 
 - 📊 Passionate about transforming data into actionable insights using **SQL, Python, Tableau, and ML models**.  
